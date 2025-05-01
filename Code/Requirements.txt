@@ -1,0 +1,6 @@
+pandas==2.2.3
+scikit-learn==1.5.2
+streamlit==1.39.0
+python-dotenv==1.0.1
+smtplib==3.9.0
+streamlit-autorefresh==1.0.1
